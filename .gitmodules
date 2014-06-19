@@ -1,0 +1,24 @@
+[submodule "bundle/supertab"]
+	path = bundle/supertab
+	url = https://github.com/ervandew/supertab.git
+[submodule "bundle/searchcomplete"]
+	path = bundle/searchcomplete
+	url = https://github.com/vim-scripts/SearchComplete.git
+[submodule "bundle/taglist"]
+	path = bundle/taglist
+	url = https://github.com/vim-scripts/taglist.vim.git
+[submodule "bundle/nerdcommenter"]
+	path = bundle/nerdcommenter
+	url = https://github.com/scrooloose/nerdcommenter.git
+[submodule "bundle/vcscommand"]
+	path = bundle/vcscommand
+	url = git://repo.or.cz/vcscommand
+[submodule "bundle/surround"]
+	path = bundle/surround
+	url = https://github.com/tpope/vim-surround.git
+[submodule "bundle/sensible"]
+	path = bundle/sensible
+	url = git://github.com/tpope/vim-sensible.git
+[submodule "bundle/phpfolding"]
+	path = bundle/phpfolding
+	url = https://github.com/vim-scripts/phpfolding.vim.git
